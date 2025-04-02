@@ -35,12 +35,8 @@ Password: cxzpedia
 
 🤝 Contributing
 
-1. CxzPedia
-2. All Developer
-
-Fork cuy
-
-
+1. Login menggunakan username dan password
+2. fork repository ini juga
 4. 🌿 Buat branch baru (git checkout -b feature-branch)
 
 
