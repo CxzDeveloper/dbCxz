@@ -1,0 +1,22 @@
+[
+       {
+           "OWNER": "CxzPedia",
+           "EMAIL": "cxzpedia@gmail.com",
+           "ACCESS": true,
+           "USERNAME": "cxzpedia",
+           "PASSWORD": "cxzpedia11",
+           "BANNED": false,
+           "BAN_REASON": null,
+           "MAINTENANCE": false
+       },
+       {
+           "OWNER": "Zyy Hosting",
+           "EMAIL": "zyyhosting@example.com",
+           "ACCESS": true,
+           "USERNAME": "zyy",
+           "PASSWORD": "zyy11",
+           "BANNED": false,
+           "BAN_REASON": null,
+           "MAINTENANCE": false
+       }
+]
