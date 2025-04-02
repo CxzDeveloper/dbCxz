@@ -1,53 +1,59 @@
-Project Name
+🔐 Database Login For Script
 
-Description
+📌 Description
 
-Berikan deskripsi singkat tentang proyek ini.
+ini adalah database untuk para user agar bisa login ke botnya
 
-Features
+🚀 Features
 
-Fitur 1
+🔑 Security
 
-Fitur 2
+🔒 Aman
 
-Fitur 3
+📂 Multi User
 
 
-Installation
+🛠 Installation For Bot
 
 # Clone repository
-git clone https://github.com/username/repository.git
+git clone https://github.com/CxzDeveloper/cxzdeveloper.git
 cd repository
 
 # Install dependencies
 npm install
 
-Usage
+🎯 Usage
 
 npm start
 
-Configuration
+⚙️ Configuration
 
-Jika ada konfigurasi yang perlu dilakukan, jelaskan di sini.
+Sesuaikan data seperti di database!:
 
-Contributing
+Username: cxzpedia
+Password: cxzpedia
 
-1. Fork repositori ini
+🤝 Contributing
 
+1. CxzPedia
+2. All Developer
 
-2. Buat branch baru (git checkout -b feature-branch)
-
-
-3. Commit perubahan (git commit -m 'Add new feature')
-
-
-4. Push ke branch (git push origin feature-branch)
+Fork cuy
 
 
-5. Buat Pull Request
+4. 🌿 Buat branch baru (git checkout -b feature-branch)
+
+
+5. ✍️ Commit perubahan (git commit -m 'Add new feature')
+
+
+6. 📤 Push ke branch (git push origin feature-branch)
+
+
+7. 🔄 Buat Pull Request
 
 
 
-License
+📜 License
 
-Tambahkan informasi lisensi proyek (MIT, GPL, dll.).
+📝 Lisensi: MIT
